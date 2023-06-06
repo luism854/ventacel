@@ -33,14 +33,14 @@ img{
 p{
     margin: 5px 0;
 }
-input[type="button"]{
+.boton{
     width: 100px;
     height: 30px;
     border-radius: 10px;
     border: 1px solid cyan;
     cursor: pointer;
 }
-input[type="button"]:hover{
+.boton{
     background-color: deepskyblue;
 }
 .button-sell{
